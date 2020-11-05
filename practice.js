@@ -120,7 +120,7 @@ return (num1 + num2)
 //storing the result in the variable mathSum.
 //Code Here
 const mathSum = add(3,4)
-console.log(mantSum)
+console.log(mathSum)
 
 //////////////////PROBLEM 13////////////////////
 
@@ -155,7 +155,7 @@ function bathroom() {
 function pond() {
   let realDuck = "fluffy";
 }
-console.log(globalScope)
+// console.log(globalScope)
 //There are 4 variables above: duck, rubberDuck, sailorDuck and realDuck
 //all within different scopes.
 //Given the functions and variables above, edit the arrays
